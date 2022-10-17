@@ -1,1 +1,1 @@
-OBB: update metrics (#7593)
+Fix PNNX ubuntu -> linux bug (#7050)
