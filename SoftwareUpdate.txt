@@ -1,1 +1,1 @@
-RTDETRDetectionModel TorchScript, ONNX Predict and Val support (#8818)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
