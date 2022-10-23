@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Add https://youtu.be/ZzUSXQkLbNw to Integration Docs (#8793)
