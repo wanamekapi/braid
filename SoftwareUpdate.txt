@@ -1,1 +1,1 @@
-Cleanup Docs languages (#7865)
+Mkdocs annotations fixes (#7600)
