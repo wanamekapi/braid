@@ -1,1 +1,1 @@
-Update inference.cpp (bug) (#7279)
+Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
