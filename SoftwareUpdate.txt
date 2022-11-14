@@ -1,1 +1,1 @@
-Add OBB models to GITHUB_ASSET_NAMES (#7425)
+Elaborate Train and Predict mode docs arguments (#8137)
