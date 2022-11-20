@@ -1,1 +1,1 @@
-Add YouTube iframe loading=lazy (#8001)
+fix yolo classify model loading error (#9196)
