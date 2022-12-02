@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Capitalize OBB acronym (#7383)
