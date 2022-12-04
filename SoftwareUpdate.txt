@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+ultralytics 8.1.2 scope HUB-SDK imports (#7596)
