@@ -1,1 +1,1 @@
-Update mkdocs-ultralytics-plugin>=0.0.44 (#8347)
+ultralytics 8.1.24 new OpenVINO 2023.3 export updates (#8417)
