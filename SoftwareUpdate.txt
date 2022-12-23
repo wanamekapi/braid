@@ -1,1 +1,1 @@
-Add Neural Magic Docs integrations page (#7234)
+Fix solution functions description + integrations/openvino.md cover image update (#8170)
