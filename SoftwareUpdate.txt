@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+ultralytics 8.0.233 improve Classify train augmentations (#4546)
