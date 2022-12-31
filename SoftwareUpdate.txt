@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Replace onnx2tf usage from CLI to Python (#8429)
