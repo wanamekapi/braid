@@ -1,1 +1,1 @@
-Add new YOLOv8 OBB model metrics (#7379)
+Update docs building code (#7601)
