@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+fix yolo classify model loading error (#9196)
