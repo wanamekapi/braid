@@ -1,1 +1,1 @@
-Fix solution functions description + integrations/openvino.md cover image update (#8170)
+Tab Manager - An easy way to batch-export, batch-close, and batch-add tabs
