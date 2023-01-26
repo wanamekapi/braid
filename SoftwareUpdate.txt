@@ -1,1 +1,1 @@
-Python refactorings and simplifications (#7549)
+Update mkdocs.yml (#7693)
