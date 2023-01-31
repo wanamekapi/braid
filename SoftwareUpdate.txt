@@ -1,1 +1,1 @@
-Expand Model method type hinting (#8279)
+Move Explorer tests to scheduled CI (#8305)
