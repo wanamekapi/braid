@@ -1,1 +1,1 @@
-ultralytics 8.0.233 improve Classify train augmentations (#4546)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
