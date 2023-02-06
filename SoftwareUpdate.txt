@@ -1,1 +1,1 @@
-ultralytics 8.0.236 dataset semantic & SQL search API (#7136)
+FROM pytorch/pytorch:2.2.0-cuda12.1-cudnn8-runtime (#8104)
