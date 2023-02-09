@@ -1,1 +1,1 @@
-Add TF SavedModel Docs Integrations Page (#9162)
+ultralytics 8.1.22 HUB model pathlib fix (#8621)
