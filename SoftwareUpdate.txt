@@ -1,1 +1,1 @@
-Add brain-tumor dataset docs page (#9041)
+Add OpenVINO Latency vs Throughput modes Docs page (#9001)
