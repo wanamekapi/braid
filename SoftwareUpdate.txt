@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Clean up unused imgsz (#7771)
