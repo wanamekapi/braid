@@ -1,1 +1,1 @@
-Modify tuner best.pt logic to train first (#8792)
+Add speed_estimation and distance_calculation in ultralytics solutions (#7325)
