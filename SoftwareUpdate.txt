@@ -1,1 +1,1 @@
-Add ONNX Docs integrations page (#7802)
+ultralytics 8.0.229 add model.embed() method (#7098)
