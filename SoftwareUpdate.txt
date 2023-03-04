@@ -1,1 +1,1 @@
-ultralytics 8.0.229 add model.embed() method (#7098)
+Add HUB-SDK Docs reference section (#7781)
