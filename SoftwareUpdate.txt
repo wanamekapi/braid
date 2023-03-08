@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Pin duckdb<=0.9.2 to avoid 0.10.0 errors (#8181)
