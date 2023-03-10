@@ -1,1 +1,1 @@
-ultralytics 8.0.226 Validator Path and Tuner space (#6901)
+ultralytics 8.1.4 RTDETR TensorBoard graph visualization fix (#7725)
