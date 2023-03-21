@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Update format.yml to pull_request_target (#7460)
