@@ -1,1 +1,1 @@
-ultralytics 8.1.5 add OBB Tracking support (#7731)
+Ultralytics Actions with OpenAI GPT-4 PR Summary (#7867)
