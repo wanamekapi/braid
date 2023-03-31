@@ -1,1 +1,1 @@
-fix print val map
+New HUB Cloud Training docs page (#8174)
