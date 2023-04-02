@@ -1,1 +1,1 @@
-Adds toggle displaying labels in GUI and verbose log on start (#7804)
+Try Apple M1 runners for Tests and Benchmarks CI (#8162)
