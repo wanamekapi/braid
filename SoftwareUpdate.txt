@@ -1,1 +1,1 @@
-Allow Annotator PIL.Image inputs (#8397)
+New HUB Cloud Training docs page (#8174)
