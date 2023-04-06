@@ -1,1 +1,1 @@
-Try Apple M1 runners for Tests and Benchmarks CI (#8162)
+ultralytics 8.0.223 add YOLOv8-Ghost P2 and P6 variants (#6826)
