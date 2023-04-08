@@ -1,1 +1,1 @@
-New HUB Cloud Training docs page (#8174)
+Add C++ Classify inference example (#6868)
