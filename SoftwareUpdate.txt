@@ -1,1 +1,1 @@
-ultralytics 8.1.20 add YOLOv8x-World support (#8539)
+Rename model_id to model.id (#8447)
