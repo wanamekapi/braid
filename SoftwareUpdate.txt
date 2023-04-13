@@ -1,1 +1,1 @@
-Mkdocs updates (#8008)
+Compress docs images (#8124)
