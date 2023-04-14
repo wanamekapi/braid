@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+ultralytics 8.1.14 new YOLOv8-World models (#8054)
