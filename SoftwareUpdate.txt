@@ -1,1 +1,1 @@
-Tracker: clean up GMC (#8003)
+Merge pull request #22 from SkalskiP/patch-1
