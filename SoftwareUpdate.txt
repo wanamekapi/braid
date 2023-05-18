@@ -1,1 +1,1 @@
-Fixed RTDETR GFLOPs bug (#7309)
+Retry once for Docker CI failures (#8164)
