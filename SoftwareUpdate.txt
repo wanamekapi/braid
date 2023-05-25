@@ -1,1 +1,1 @@
-OpenVino 2024.0.0 (#8726)
+Add Ultralytics HUB Cloud Training banner to Docs (#8656)
