@@ -1,1 +1,1 @@
-Update Docs README (#8919)
+Update Discord and Contributing Guide URLs (#9270)
