@@ -1,1 +1,1 @@
-Update Docs Home and Neural Magic pages (#7243)
+Fix TypeError in check_cfg() (#9245)
