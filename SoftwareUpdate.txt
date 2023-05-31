@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Update Docs Home and Neural Magic pages (#7243)
