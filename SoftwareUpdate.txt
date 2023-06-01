@@ -1,1 +1,1 @@
-Compress docs images (#8124)
+Fix PIL show() and save() (#8202)
