@@ -1,1 +1,1 @@
-Docs updates and improvements (#8183)
+Fix RTDETR generate anchor grid out of boundary (#7247)
