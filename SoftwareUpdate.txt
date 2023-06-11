@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Add Non-Maximum Suppression (NMS) inplace flag (#8368)
