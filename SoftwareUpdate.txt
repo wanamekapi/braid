@@ -1,1 +1,1 @@
-Add Non-Maximum Suppression (NMS) inplace flag (#8368)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
