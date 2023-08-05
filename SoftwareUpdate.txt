@@ -1,1 +1,1 @@
-Update IoU capitalization (#8604)
+Update the heatmap module code + docs (#7045)
