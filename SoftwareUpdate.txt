@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
