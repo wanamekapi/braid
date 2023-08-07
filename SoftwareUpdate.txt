@@ -1,1 +1,1 @@
-Bump codecov/codecov-action from 3 to 4 in /.github/workflows (#8022)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
