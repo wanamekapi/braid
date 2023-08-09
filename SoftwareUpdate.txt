@@ -1,1 +1,1 @@
-Fix PIL show() and save() (#8202)
+Add TensorBoard Docs integrations page (#7248)
