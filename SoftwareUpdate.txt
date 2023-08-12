@@ -1,1 +1,1 @@
-Add TensorBoard Docs integrations page (#7248)
+Elaborate Train and Predict mode docs arguments (#8137)
