@@ -1,1 +1,1 @@
-ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
+ultralytics 8.1.5 add OBB Tracking support (#7731)
