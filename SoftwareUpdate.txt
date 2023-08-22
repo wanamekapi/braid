@@ -1,1 +1,1 @@
-update
+Update CITATION.cff with cffinit corrections (#8658)
