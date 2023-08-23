@@ -1,1 +1,1 @@
-Update CITATION.cff with cffinit corrections (#8658)
+Fix IS_PYTHON_3_12 bug (#9258)
