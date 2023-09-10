@@ -1,1 +1,1 @@
-ultralytics 8.1.29 improved disk space checking on correct path (#8977)
+Added check of parameter type before setting required_grad=True for frozen layers (#8318)
