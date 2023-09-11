@@ -1,1 +1,1 @@
-Rename model_id to model.id (#8447)
+Fix heatmaps width-height order bug (#7184)
