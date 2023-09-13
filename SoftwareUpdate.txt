@@ -1,1 +1,1 @@
-Fix IS_PYTHON_3_12 bug (#9258)
+ultralytics 8.1.10 MLFlow, OBB, TFLite and INT8 fixes (#8016)
