@@ -1,1 +1,1 @@
-Update Discord and Contributing Guide URLs (#9270)
+Update inference.cpp (bug) (#7279)
