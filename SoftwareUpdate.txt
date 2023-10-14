@@ -1,1 +1,1 @@
-New test for labels and crops (#8861)
+Add Weights & Biases Docs integrations page (#7199)
