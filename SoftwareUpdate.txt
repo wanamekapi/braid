@@ -1,1 +1,1 @@
-Add OBB benchmarks to CI (#7777)
+Update pyproject.toml [tool.pytest.ini_options] (#9259)
