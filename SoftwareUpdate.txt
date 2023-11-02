@@ -1,1 +1,1 @@
-Bump github/codeql-action from 2 to 3 in /.github/workflows (#7041)
+Integrate OpenVINO CUMULATIVE_THROUGHPUT mode batched inference (#8834)
