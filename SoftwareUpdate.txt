@@ -1,1 +1,1 @@
-Add docs guide terminal images (#8819)
+Update OpenVINO INT8 export (#7515)
