@@ -1,1 +1,1 @@
-Faster batch same_shapes (#8851)
+Update inference.cpp (bug) (#7279)
