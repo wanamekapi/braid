@@ -1,1 +1,1 @@
-Fix PNNX ubuntu -> linux bug (#7050)
+Add PaddlePaddle Docs Integrations Page (#8858)
