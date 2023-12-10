@@ -1,1 +1,1 @@
-Add TensorRT Docs Integrations Page (#7855)
+Add object blurring & object cropping modules in Ultralytics docs (#7434)
