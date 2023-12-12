@@ -1,1 +1,1 @@
-Update Docs language dropdown height (#6927)
+Allow Annotator PIL.Image inputs (#8397)
