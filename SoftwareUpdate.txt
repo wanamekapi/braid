@@ -1,1 +1,1 @@
-ultralytics 8.0.239 Ultralytics Actions and hub-sdk adoption (#7431)
+Open in Opposite Mode Option - Adds an option to open a long pressed URL in the respective other browsing mode
