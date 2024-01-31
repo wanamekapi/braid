@@ -1,1 +1,1 @@
-Update docs building code (#7601)
+Add TensorBoard Docs integrations page (#7248)
