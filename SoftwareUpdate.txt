@@ -1,1 +1,1 @@
-Update pyproject.toml and Docs (#7274)
+Add bgr hyperparameter (#9139)
