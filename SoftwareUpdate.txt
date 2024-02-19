@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Optimize function calls to method calls (#8507)
