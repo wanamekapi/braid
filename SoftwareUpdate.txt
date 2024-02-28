@@ -1,1 +1,1 @@
-Update HTTP to HTTPS (#7548)
+Add PaddlePaddle Docs Integrations Page (#8858)
