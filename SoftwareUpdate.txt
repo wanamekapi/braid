@@ -1,1 +1,1 @@
-Fix Yolo 8.0.206 scale bug (#7821)
+Biometric Protection - Require TouchID / FaceID verification for switching browsing modes, locking tabs, unlocking tabs or accessing locked tabs
