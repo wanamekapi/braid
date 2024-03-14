@@ -1,1 +1,1 @@
-Compare plt.get_backend() in lowercase (#8409)
+Add visuals in guides/distance-calculation.md (#7876)
