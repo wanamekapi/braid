@@ -1,1 +1,1 @@
-* fix for predicting with batch_size > 1
+Pin jax and jaxlib to fix tensorflowjs exports (#6988)
