@@ -1,1 +1,1 @@
-Capitalize OBB acronym (#7383)
+YOLOv8.1 blog, Explorer notebook and 2023 > 2024 updates (#7469)
