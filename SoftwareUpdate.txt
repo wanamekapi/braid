@@ -1,1 +1,1 @@
-added badges (#45)
+Add YouTube iframe loading=lazy (#8001)
