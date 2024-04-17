@@ -1,1 +1,1 @@
-Add bgr hyperparameter (#9139)
+Elaborate Train and Predict mode docs arguments (#8137)
