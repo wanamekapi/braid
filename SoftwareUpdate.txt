@@ -1,1 +1,1 @@
-Elaborate Train and Predict mode docs arguments (#8137)
+Add HUB-SDK docs (#7775)
