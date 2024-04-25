@@ -1,1 +1,1 @@
-Add HUB-SDK docs (#7775)
+Optimize function calls to method calls (#8507)
