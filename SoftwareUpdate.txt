@@ -1,1 +1,1 @@
-Optimize function calls to method calls (#8507)
+added badges (#45)
