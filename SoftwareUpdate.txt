@@ -1,1 +1,1 @@
-* fix for KeyError: 'epoch'
+Add docs guide terminal images (#8819)
