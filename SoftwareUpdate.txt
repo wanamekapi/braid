@@ -1,1 +1,1 @@
-Fix OpenVINO missing batch-size bug (#9264)
+Replace onnx2tf usage from CLI to Python (#8429)
