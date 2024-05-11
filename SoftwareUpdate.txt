@@ -1,1 +1,1 @@
-OBB: Fix when training on zip data (#8680)
+Updated SQL Query Plot Code (#8120)
