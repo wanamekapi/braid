@@ -1,1 +1,1 @@
-fix resume training
+Update Colab notebook for YOLOv8.1 (#8660)
